@@ -8,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/ANKURJAT15" target="blank"><img src="https://img.shields.io/twitter/follow/ANKURJAT15?logo=twitter&style=for-the-badge" alt="ANKURJAT15" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🔭 I’m currently working on **Improving Web Development skills.**
+  
+- 🌱 I’m currently learning **DataStructures & Algorithms.**
 
-- 👯 I’m looking to collaborate on **Wonderful web design**
+- 👯 I’m looking to collaborate on **Wonderful web design.**
 
-- 💬 Ask me about **HTML, CSS, JS, C, C++ and Computer Core Subjects**
+- 💬 Ask me about **HTML, CSS, JS, C, C++ and Computer Core Subjects.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ankur-jat-bb45b8276/**
 
