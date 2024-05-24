@@ -51,7 +51,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur-jat0009&show_icons=true&locale=en&theme=radical" alt="ankur-jat0009" /></p>
 
 [![ankur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankur-jat0009&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Watch snake eating my contributions
-
-![snake gif](https://github.com/ankur-jat0009/ankur-jat0009/blob/output/github-contribution-grid-snake-dark.svg)
